@@ -1,1 +1,1 @@
-# euclideanos.github.io
+# Website for Euclidean OS.
