@@ -500,6 +500,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
   margin-top: 0;
+  font-size: 26px;
   line-height: 1.5;
   text-transform: uppercase;
   font-weight: 300;
