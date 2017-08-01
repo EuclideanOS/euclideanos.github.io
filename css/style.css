@@ -99,8 +99,8 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 48px;
-  margin: 0 0 0.4em 0;
+  font-size: 24px;
+  margin: 0 0 2em 0;
   padding: 0;
   text-transform: uppercase;
   font-weight: bold;
@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff !important;
   position: relative;
 }
-/*.fh5co-nav ul li.active > a:before {
+.fh5co-nav ul li.active > a:before {
   position: absolute;
   content: "";
   width: 8px;
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-}*/
+}
 
 #fh5co-header,
 #fh5co-counter,
@@ -500,7 +500,11 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
   margin-top: 0;
+<<<<<<< HEAD
   font-size: 26px;
+=======
+  font-size: 40px;
+>>>>>>> parent of 8e82df7... index: test new banner look
   line-height: 1.5;
   text-transform: uppercase;
   font-weight: 300;
