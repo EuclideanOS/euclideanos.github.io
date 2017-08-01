@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff !important;
   position: relative;
 }
-.fh5co-nav ul li.active > a:before {
+/*.fh5co-nav ul li.active > a:before {
   position: absolute;
   content: "";
   width: 8px;
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-}
+}*/
 
 #fh5co-header,
 #fh5co-counter,
