@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #0C9CEE;
+  color: #4285F4;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #0C9CEE;
+  color: #4285F4;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #0C9CEE;
+  background: #4285F4;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #0C9CEE;
+  background: #4285F4;
 }
 
 ::selection {
   color: #fff;
-  background: #0C9CEE;
+  background: #4285F4;
 }
 
 .fh5co-nav {
@@ -99,8 +99,8 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 24px;
-  margin: 0 0 2em 0;
+  font-size: 28px;
+  margin: 0 0 1.3em 0;
   padding: 0;
   text-transform: uppercase;
   font-weight: bold;
@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline;
 }
 .fh5co-nav ul li a {
-  font-size: 16px;
+  font-size: 14px;
   padding: 30px 10px;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 0.5);
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: #0C9CEE;
+  color: #4285F4;
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #f35f55;
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-cover {
-  height: 700px;
+  height: 735px;
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
   z-index: 9;
-  height: 500px;
+  height: 750px;
   display: table;
   width: 100%;
 }
@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: none;
 }
 .pagination > li.active > a {
-  background: #0C9CEE !important;
+  background: #4285F4 !important;
   -webkit-box-shadow: 4px 11px 35px -14px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 4px 11px 35px -14px rgba(0, 0, 0, 0.5);
   -ms-box-shadow: 4px 11px 35px -14px rgba(0, 0, 0, 0.5);
@@ -429,12 +429,12 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #0C9CEE;
+  color: #4285F4;
   padding-left: 10px;
   padding-right: 10px;
 }
 .fh5co-social-icons li a i {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .fh5co-contact-info ul {
@@ -448,7 +448,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #0C9CEE;
+  color: #4285F4;
   position: absolute;
   left: 0;
   top: .05em;
@@ -500,7 +500,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
   margin-top: 0;
-  font-size: 40px;
+  font-size: 80px;
   line-height: 1.5;
   text-transform: uppercase;
   font-weight: 300;
@@ -524,7 +524,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
   padding: 15px 30px;
-  background: #0C9CEE;
+  background: #4285F4;
   color: #fff;
   border: none !important;
   font-size: 18px;
@@ -574,7 +574,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-team,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 1.2em 0;
+  padding: 2em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -654,7 +654,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px;
 }
 #fh5co-blog .fh5co-post h3 a {
-  color: #0C9CEE;
+  color: #4285F4;
 }
 #fh5co-blog .fh5co-post h3 a:hover {
   color: #f35f55;
@@ -695,7 +695,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-counter {
-  padding: 7em 0;
+  padding:0;
   text-align: center;
 }
 @media screen and (max-width: 768px) {
@@ -705,8 +705,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .counter {
   font-size: 50px;
-  margin-bottom: 10px;
-  color: #0C9CEE;
+  margin-bottom: 6px;
+  color: #4285F4;
   font-weight: 100;
   display: block;
 }
@@ -715,6 +715,9 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.5);
   letter-spacing: .1em;
+  white-space: nowrap;
+  
+  
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter .feature-center {
@@ -959,7 +962,8 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-right: 20px;
   float: left;
   width: 100%;
-  margin-bottom: 40px;
+  margin-bottom: 45px;
+  
 }
 @media screen and (max-width: 768px) {
   .feature-center {
@@ -1137,15 +1141,15 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-heading {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 .fh5co-heading.fh5co-heading-sm {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 .fh5co-heading h2 {
   font-size: 55px;
   margin-bottom: 20px;
-  line-height: 1.5;
+  line-height: 1.4;
   font-weight: 300;
   color: #000;
 }
@@ -1154,9 +1158,10 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
   color: #828282;
 }
-.fh5co-heading span {
+.fh5co-heading span { 
   display: block;
-  margin-bottom: 10px;
+  margin-top: 2px;
+  margin-bottom: 50px;
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 2px;
@@ -1539,9 +1544,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #0C9CEE;
+  background: #4285F4;
   color: #fff;
-  border: 2px solid #0C9CEE;
+  border: 2px solid #4285F4;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #20a7f4 !important;
@@ -1549,11 +1554,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #0C9CEE;
-  border: 2px solid #0C9CEE;
+  color: #4285F4;
+  border: 2px solid #4285F4;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #0C9CEE;
+  background: #4285F4;
   color: #fff;
 }
 
@@ -1683,7 +1688,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #0C9CEE;
+  border-color: #4285F4;
 }
 
 .mb30 {
